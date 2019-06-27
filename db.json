@@ -1,31 +1,12 @@
 {
-  "posts": [
+  "requests": [
     {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "request_id": 0,
+      "request_type": "o nome da ação",
+      "request_webID": "9bc8f225ca512656b771145ec31c35d0",
+      "request_deviceID": "ceb6779475f1e6247ea59b6f2de1acb3",
+      "request_qrcode": "U2FsdGVkX18kNHtcMiAtbzuy8kBrzIP",
+      "request_status": 0
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
