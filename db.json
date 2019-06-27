@@ -1,8 +1,31 @@
 {
-  "request_id": 0,
-  "request_type": "o nome da ação",
-  "request_webID": "9bc8f225ca512656b771145ec31c35d0",
-  "request_deviceID": "967b81c170f10afbb56a80f7bb9ac1a8",
-  "request_qrcode": "U2FsdGVkX18kNHtcMiAtbzuy8kBrzIP",
-  "request_status": 0
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
